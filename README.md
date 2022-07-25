@@ -1,5 +1,7 @@
 # CoinFlip
 
+This is a coinflipping program where you call your guess and are shown the result. 
+
 I started importing libraries and using a broader array of functionality. 
 
 Here is a project using the random library and producing a random integer, either 1 or 0.
